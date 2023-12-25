@@ -1,0 +1,9 @@
+{
+    "name": "Carpet_Services",
+    "short_name": "CARPET",
+    "start_url": "/",
+    "icons": [],
+    "theme_color": "#E1F5FE",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
